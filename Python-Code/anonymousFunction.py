@@ -1,8 +1,6 @@
 #Python functions allows us to create anonymous functions using the lambda keyword. 
 #These functions are small one line functions that don't use the def keyword.
 #In this question we will create an anonymous function to print a to power b.
-
-
 power=lambda a,b :a**b
 
 def main():
